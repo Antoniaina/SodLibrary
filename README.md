@@ -1,4 +1,4 @@
-# Open-Source Bible Archive
+# SodLibrary
 
 This project aims to preserve and make accessible biblical and apocryphal texts.  
 The aim is to create a **public and free archive** that can be consulted by all, while remaining **open-source**.
